@@ -1,5 +1,3 @@
-
-```markdown
 # Receipt Processor Challenge
 
 ## Table of Contents
