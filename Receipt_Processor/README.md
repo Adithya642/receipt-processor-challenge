@@ -1,6 +1,3 @@
-Here’s a **README.md** file tailored for your project, explaining its purpose, functionality, setup instructions, and usage:
-
----
 
 ```markdown
 # Receipt Processor Challenge
@@ -199,7 +196,6 @@ void processReceipt_shouldReturnBadRequestWhenNoItems() {
 This project is licensed under the MIT License.
 ```
 
----
 
 ### **Usage**
 - Copy the above content into a `README.md` file in your project’s root directory.
