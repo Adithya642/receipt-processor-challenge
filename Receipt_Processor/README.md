@@ -9,7 +9,7 @@
 - [Points Calculation Logic](#points-calculation-logic)
 - [Testing](#testing)
 - [Docker Setup](#docker-setup)
-- [Future Enhancements](#future-enhancements)
+
 
 ---
 
